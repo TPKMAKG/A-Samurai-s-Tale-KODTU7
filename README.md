@@ -1,28 +1,27 @@
 # A Samurai's Tale
 
-A cinematic 2D pixel-art Feudal Japan samurai action-platformer featuring procedurally planned isolated arenas, multi-phase minibosses, deflect/parry mechanics, and dramatic 24 FPS silent-film cutscenes.
+A cinematic 2D pixel-art samurai action-platformer featuring procedurally planned isolated arenas, multi-phase minibosses, deflect/parry mechanics, and 24 FPS silent-filmesque cutscenes.
 
 ---
 
-## ⚔️ Controls
+## Controls
 
 | Action | Primary Key | Alternate Key |
 |---|---|---|
 | **Move** | `A` / `D` | `←` / `→` |
 | **Jump / Double Jump** | `Space` / `W` | `↑` (Hold `S` + `Space` to drop through platforms) |
-| **Katana Slash** | `J` | `X` |
-| **Iaijutsu Dash-Slash** | `K` | `Shift` / `C` |
-| **Parry / Deflect** | `L` | `Z` (Stuns foes and empowers the next hit for 1.1x damage) |
-| **Toggle Debug / Invincibility** | `I` | `~` (Backquote) / `F3` |
+| **Attack** | `J` | `X` |
+| **Dash-Slash** | `K` | `Shift` / `C` |
+| **Parry** | `L` | `Z` (Stuns foes and empowers the next hit for 1.1x damage) |
 | **Retry Current Seed** | `R` | — |
-| **New Procedural Run** | `N` | — |
+| **New Run** | `N` | — |
 | **Mute / Unmute Audio** | `M` | — |
 
 ---
 
-## 🌸 Features
+## Features
 
-- **Procedural Feudal Journey:** Journey through isolated themed rooms including Bamboo Groves with restorative Hot Springs, Mist-veiled Waterfall Caves, Head Butcher's Kitchen, Temple Sanctuaries, and the Moonlit Autumn Precipice.
+- **Your Journey:** Journey through isolated themed rooms including Bamboo Groves with restorative Hot Springs, mist-veiled Waterfall Caves, Head Butcher's Kitchen, Temple Sanctuaries, and the Moonlit Autumn Precipice.
 - **Dynamic Miniboss Encounters:**
   - *High Priest Genkai:* Phase I martial fists transition to spiritual blasts and airborne kicks.
   - *Master Retainer Kenshin:* Single katana mastery awakening into dual-wielding strikes.
@@ -33,7 +32,7 @@ A cinematic 2D pixel-art Feudal Japan samurai action-platformer featuring proced
 
 ---
 
-## 🛠️ Development & Building
+## Development & Building
 
 ### Requirements
 - [Node.js](https://nodejs.org/) (v18+)
