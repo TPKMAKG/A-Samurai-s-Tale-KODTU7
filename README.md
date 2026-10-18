@@ -1,6 +1,6 @@
 # A Samurai's Tale
 
-A cinematic 2D pixel-art samurai action-platformer featuring procedurally planned isolated arenas, multi-phase minibosses, deflect/parry mechanics, and 24 FPS silent-filmesque cutscenes.
+A cinematic 2D pixel-art samurai action-platformer featuring procedurally planned isolated arenas, multi-phase minibosses, deflect/parry mechanics, and 24 FPS silent-filmesque cutscenes. Journey through isolated themed rooms including Bamboo Groves with restorative Hot Springs, mist-veiled Waterfall Caves, Head Butcher's Kitchen, Temple Sanctuaries, and the Moonlit Autumn Precipice. Fight the important Clan figures and progress to the final Clan Head. Be careful; your choices have consequences.
 
 ---
 
@@ -16,19 +16,6 @@ A cinematic 2D pixel-art samurai action-platformer featuring procedurally planne
 | **Retry Current Seed** | `R` | — |
 | **New Run** | `N` | — |
 | **Mute / Unmute Audio** | `M` | — |
-
----
-
-## Features
-
-- **Your Journey:** Journey through isolated themed rooms including Bamboo Groves with restorative Hot Springs, mist-veiled Waterfall Caves, Head Butcher's Kitchen, Temple Sanctuaries, and the Moonlit Autumn Precipice.
-- **Dynamic Miniboss Encounters:**
-  - *High Priest Genkai:* Phase I martial fists transition to spiritual blasts and airborne kicks.
-  - *Master Retainer Kenshin:* Single katana mastery awakening into dual-wielding strikes.
-  - *Head Butcher Goro:* Heavy cleaver slams and parriable flying butcher knives.
-  - *Clan Head Takeda:* Heavy Kanabo mace, Odachi greatsword, and an enraged invulnerable Phase III charge where he must be lured off the cliff.
-- **Cinematic Cutscenes:** Authentic 24 FPS classic Japanese cinema aesthetic complete with sepia grain, vignette, letterboxing, and dramatic narrative beats.
-- **Secrets & Consequences:** Discover hidden interactions with lasting consequences in the final confrontation.
 
 ---
 
