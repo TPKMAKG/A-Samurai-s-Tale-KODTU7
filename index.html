@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>A Samurai's Tale</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Yuji+Syuku&display=swap" rel="stylesheet" />
+    <style>
+      html, body { margin: 0; height: 100%; background: #120c16; overflow: hidden; }
+      #wrap { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; }
+      #stage { position: relative; cursor: pointer; }
+      canvas { position: absolute; left: 0; top: 0; image-rendering: pixelated; image-rendering: crisp-edges; }
+      #ui { pointer-events: none; }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <div id="stage">
+        <canvas id="game" width="320" height="180"></canvas>
+        <canvas id="ui"></canvas>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
